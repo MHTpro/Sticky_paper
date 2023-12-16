@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:flutter/services.dart';
+export 'package:stiky_paper/provider/paper_color_provider.dart';
+export 'package:stiky_paper/provider/resize_of_widget.dart';
+export 'package:stiky_paper/provider/save_text_provider.dart';
+export 'package:stiky_paper/provider/text_align_provider.dart';
+export 'package:stiky_paper/provider/text_color_provider.dart';
+export 'package:stiky_paper/provider/text_weight_provider.dart';
+export 'package:stiky_paper/responsive/text_responsive.dart';
+export 'package:window_manager/window_manager.dart';
